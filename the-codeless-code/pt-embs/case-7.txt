@@ -1,0 +1,40 @@
+Number: 7
+Title: O Inimigo do Bom
+Lang: pt
+Locale: BR
+Translator: embs
+
+Os monges do [[Laughing Monkey Clan|Clã do Macaco Risonho]]
+abordaram o mestre Java com uma lista de queixas.
+
+"Nossa maior frustração é o processo de testes", insistiu o
+monge mais novo. "Teste manual é maçante e testes automatizados
+são um pesadelo de se criar.  Ambos são distrações para a
+escrita do código".
+
+O mestre considerou a respeito e disse: "Poderíamos, decerto,
+renunciar todos os tipos de testes se tivéssemos certeza da
+perfeição do nosso código.  Como, então, podemos alcançar a
+perfeição?"
+
+"Através da prática", disse um monge.
+
+"Através de estudo diligente", disse outro.
+
+"Através da conciliação com os deuses certos", disse um terceiro.
+
+Um velho monge com barbas brancas, que estava sentado quietamente
+no canto, levantou a cabeça:
+
+"Eu sei como a perfeição pode ser alcançada", disse ele.
+"Mas temo que todos os que agora me escutam não se convencerão
+dessa verdade a menos que eu fale exatamente as palavras corretas,
+com as mais agradáveis entonações, na hora mais propícia do dia.
+Agora tenho que considerar a melhor maneira de fazê-lo".
+
+O velho monge pôs-se em silêncio por um longo período.
+Eventualmente, o sino para o jantar tocou.
+
+"Quanto isso vai demorar?", perguntou um dos novatos.
+
+"Não mais que cem anos", respondeu o velho monge.
